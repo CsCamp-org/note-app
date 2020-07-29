@@ -2,7 +2,7 @@
 
 ##### Steps to use this code base
 
-1. clone https://github.com/CsCamp-org/note-app.git
+1. git clone https://github.com/CsCamp-org/note-app.git
 2. cd note-app
 3. npm install
 4. node app.js
